@@ -14,6 +14,11 @@ class RSSFetcher(Fetcher):
                 "type": "news"
             },
             {
+                "url": "https://blog.netlab.360.com/rss",
+                "name": "360",
+                "type": "360blog"
+            },
+            {
                 "url": "https://www.exploit-db.com/rss.xml",
                 "name": "Exploit-DB",
                 "type": "exploit"
